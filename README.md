@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/shivaay711/DSA-/tree/master/1406-stone-game-iii) |
+| [3731-find-missing-elements](https://github.com/shivaay711/DSA-/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/shivaay711/DSA-/tree/master/1406-stone-game-iii) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/shivaay711/DSA-/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/shivaay711/DSA-/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
