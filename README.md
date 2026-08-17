@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/shivaay711/DSA-/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/shivaay711/DSA-/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/shivaay711/DSA-/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivaay711/DSA-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivaay711/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -14,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/shivaay711/DSA-/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/shivaay711/DSA-/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/shivaay711/DSA-/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivaay711/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/shivaay711/DSA-/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/shivaay711/DSA-/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
@@ -29,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/shivaay711/DSA-/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/shivaay711/DSA-/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/shivaay711/DSA-/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
