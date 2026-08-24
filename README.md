@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/shivaay711/DSA-/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/shivaay711/DSA-/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/shivaay711/DSA-/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/shivaay711/DSA-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/shivaay711/DSA-/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivaay711/DSA-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivaay711/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/shivaay711/DSA-/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/shivaay711/DSA-/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/shivaay711/DSA-/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/shivaay711/DSA-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shivaay711/DSA-/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivaay711/DSA-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -30,22 +32,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/shivaay711/DSA-/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/shivaay711/DSA-/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/shivaay711/DSA-/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/shivaay711/DSA-/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/shivaay711/DSA-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/shivaay711/DSA-/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/shivaay711/DSA-/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/shivaay711/DSA-/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/shivaay711/DSA-/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/shivaay711/DSA-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shivaay711/DSA-/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/shivaay711/DSA-/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/shivaay711/DSA-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/shivaay711/DSA-/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
@@ -130,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivaay711/DSA-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/shivaay711/DSA-/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
